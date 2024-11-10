@@ -35,3 +35,5 @@ Welcome to **Fashion Bee** – a stylish, user-friendly e-commerce solution tail
 ### 📋 Prerequisites
 - Local server (e.g. **XAMPP**)
 - SQL database setup
+  
+![No1](https://github.com/user-attachments/assets/c06a8650-d671-49c7-9c78-a0e306a70065)
